@@ -48,3 +48,11 @@ https://github.com/user-attachments/assets/a6827f3b-d4d3-492e-a1f4-5005b30ad244
 The Chad Core is an idealized 3 dimensional version of the demo Fusor I constructed over the past summer
 
 https://github.com/user-attachments/assets/2e0ae855-23b2-4068-942a-922a77dc68cf
+
+
+Chad Core diagram
+
+<img width="3485" height="2217" alt="image" src="https://github.com/user-attachments/assets/b3296f3d-0d21-4bb3-89a5-476e6f294de9" />
+
+<img width="3263" height="3114" alt="image" src="https://github.com/user-attachments/assets/84b1a7b3-c8a9-4bc9-926b-3198a4f3ba92" />
+
