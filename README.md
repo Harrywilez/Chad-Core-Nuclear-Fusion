@@ -42,3 +42,9 @@ https://github.com/user-attachments/assets/878b96df-0743-49d7-b6c1-9f91db35a9d6
 POLYWELL
 
 https://github.com/user-attachments/assets/a6827f3b-d4d3-492e-a1f4-5005b30ad244
+
+
+
+The Chad Core is an idealized 3 dimensional version of the demo Fusor I constructed over the past summer
+
+https://github.com/user-attachments/assets/2e0ae855-23b2-4068-942a-922a77dc68cf
